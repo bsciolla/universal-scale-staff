@@ -2,7 +2,7 @@
 
 A music notation alternative to the 5-lines staff, in which the **lines** are based directly on the **notes**.
 
-The scale staff : what it is
+The scale staff
 ---
 
 The scale staff is an alternative notation for sheet music that allows an easier reading of notes on the scale, especially for beginners, but possibly for musicians as well.
