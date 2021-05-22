@@ -29,6 +29,10 @@ with the equivalent with the scale staff :
 
 Certainly, for a beginner there is a simplification in the reading of notes : knowing the Treble Clef and Bass Clef is not needed.
 
+Read the [Wiki](https://github.com/bsciolla/universal-scale-staff/wiki) for more :
+
+- [Scores](https://github.com/bsciolla/universal-scale-staff/wiki/Examples-of-scores)
+
 Also, the pattern repeats accross all octaves. Notice that in this notation, the location of individual notes is not changed : the 5 lines of the staff are simply omitted and replaced by the scale staff lines.
 
 
