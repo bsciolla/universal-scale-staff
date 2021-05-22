@@ -9,7 +9,11 @@ The universal scale staff is an alternative notation for sheet music that allows
 
 In standard music notations, 5 equally-spaced lines are drawn, each representing a 2-notes interval on the chosen scale. The staff is drawn with a Clef, which sets a note for each line : E is the note of the lower line of the Treble Clef. By counting up and down the notes, this then defines a note for every location on the score.
 
-Instead of 5 lines, the scale staff is drawn with a thick line on every C note and a thin line on every G. The lines can be also be drawn as high or low as needed to cover the range of notes in the score. Also, the pattern repeats accross all octaves. Notice that in this notation, the location of individual notes is not changed : the 5 lines of the staff are simply omitted and replaced by the scale staff lines.
+Instead of 5 lines, the scale staff is drawn with a thick line on every C note and a thin line on every G. The lines can be also be drawn as high or low as needed to cover the range of notes in the score. 
+
+[[universal-scale-staff/inkscape/basicidea.png]]
+
+Also, the pattern repeats accross all octaves. Notice that in this notation, the location of individual notes is not changed : the 5 lines of the staff are simply omitted and replaced by the scale staff lines.
 The Treble, Bass or other Clefs are drawn to set the absolute pitch reference.
 
 You can see the result of two scales on a piano in scales.png.
