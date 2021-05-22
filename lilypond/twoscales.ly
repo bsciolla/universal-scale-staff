@@ -49,12 +49,10 @@ c d4 e4 f4 | g4 a4 b4 c'4 |
 
   \context PianoStaff << 
     \context Staff = "one" <<
-       \override Staff.StaffSymbol.line-count = #6
        \override Staff.StaffSymbol.line-positions = #'(-5.85 -6 -6.15 -2  0.85 1 1.15)
        \voiceone
     >>
     \context Staff = "two" <<
-      \override Staff.StaffSymbol.line-count = #6
       \override Staff.StaffSymbol.line-positions = #'(-0.85 -1 -1.15  3 5.85 6 6.15 10)
       \voicetwo
     >>
