@@ -32,3 +32,5 @@ Certainly, for a beginner there is a simplification in the reading of notes : kn
 Read the [Wiki](https://github.com/bsciolla/universal-scale-staff/wiki/Wiki-:-universal-scale-staff) for more.
 
 
+<img src="https://github.com/bsciolla/universal-scale-staff/blob/main/inkscape/BachBWV515.png" alt="drawing" width="600"/>
+
