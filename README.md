@@ -1,7 +1,7 @@
 # Simplifying the reading of notes
 
 The scale staff or simplified staff is a music notation alternative to the 5-lines staff, in which the **lines** are based directly on the **notes**.
-A major goal is to make the reading of notes easier, especially for beginners, but possibly for musicians as well.
+The goal is to make the reading of notes easier, especially for beginners, but possibly for musicians as well.
 
 
 The scale staff
