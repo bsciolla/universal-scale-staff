@@ -1,6 +1,6 @@
-# A universal scale staff
+# Simplifying the reading of notes
 
-A music notation alternative to the 5-lines staff, in which the **lines** are based directly on the **notes**.
+The scale staff or simplified staff is a music notation alternative to the 5-lines staff, in which the **lines** are based directly on the **notes**.
 
 The scale staff
 ---
