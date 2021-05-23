@@ -29,7 +29,7 @@ with the equivalent with the scale staff :
 
 Certainly, for a beginner there is a simplification in the reading of notes : knowing the Treble Clef and Bass Clef is not needed.
 
-Read the [Wiki](https://github.com/bsciolla/universal-scale-staff/wiki/The-Scale-Staff-Wiki) for more.
+Read the [Wiki](https://github.com/bsciolla/universal-scale-staff/wiki/Scale-staff---Wiki) for more.
 
 
 <img src="https://github.com/bsciolla/universal-scale-staff/blob/main/inkscape/BachBWV515.png" alt="drawing" width="600"/>
