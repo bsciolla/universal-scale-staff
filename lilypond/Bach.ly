@@ -85,11 +85,11 @@ voicetwo =  \relative c {
 
    \context GrandStaff << 
     \context Staff = "one" <<
-  \override Staff.StaffSymbol.line-positions = #'(-6.15 -6 -5.85 -2 0.85 1 1.15)
+  \override Staff.StaffSymbol.line-positions = #'(-6.15 -6 -5.85 -3 0.85 1 1.15)
       \voiceone
     >>
     \context Staff = "two" <<
-    \override Staff.StaffSymbol.line-positions = #'(-1.15 -1 -0.85 3 5.95 6 6.15)
+    \override Staff.StaffSymbol.line-positions = #'(-1.15 -1 -0.85 2 5.95 6 6.15)
       \voicetwo
     >>
   >>
