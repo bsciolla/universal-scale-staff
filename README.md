@@ -10,6 +10,8 @@ In standard music notations, the notes are represented on a staff of 5 equally-s
 
 The scale staff, instead, is drawn with a thick line on every C note and a thin line on every F.
 
+**I have just decided to move the thin line from G (previously) to F, for aesthetic purposes. The pictures and examples will be inconsistent until I fix all of this.**
+
 <img src="https://github.com/bsciolla/universal-scale-staff/blob/main/inkscape/basicidea.png" alt="drawing" width="500"/>
 
 On a whole octave : 
