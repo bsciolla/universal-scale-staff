@@ -1,17 +1,14 @@
-# Simplifying the reading of notes
+# Simplifying music reading
 
-The scale staff or simplified staff is a music notation alternative to the 5-lines staff, in which the **lines** are based directly on the **notes**.
-The goal is to make reading notes easier, especially for beginners, but possibly for musicians as well.
+The "simple staff" is a proposal for an alternative music notation. In particular, it is a prosposal to replace the 5-lines staff by a simple staff, in which the **lines** relate directly on the **notes**, accross all pitches.
+The goal is to make reading notes easier, especially for beginners, but possibly for experienced musicians as well.
 
-
-The scale staff
+The simple staff
 ---
 
-The scale staff is an alternative notation for sheet music that allows an easier reading of notes on the scale, especially for beginners, but possibly for musicians as well.
+In standard music notations, the notes are represented on a staff of 5 equally-spaced lines. The staff is drawn with a Clef, which sets the reference for notes : for example E is the note of the lower line of the Treble Clef.
 
-In standard music notations, the notes are represented on a staff of 5 equally-spaced lines. The staff is drawn with a Clef, which sets the reference for notes : E is the note of the lower line of the Treble Clef.
-
-The scale staff, instead, is drawn with a thick line on every C note and a thin line on every G.
+The scale staff, instead, is drawn with a thick line on every C note and a thin line on every F.
 
 <img src="https://github.com/bsciolla/universal-scale-staff/blob/main/inkscape/basicidea.png" alt="drawing" width="500"/>
 
